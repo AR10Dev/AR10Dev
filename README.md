@@ -6,7 +6,7 @@
 
 Student and passionate app and game developer.
 
-- 🔭 I’m currently working on my first Flutter App
+- 🔭 I’m currently working on my first Flutter App and my first Svelte App
 - 🌱 I’m currently learning Flutter, Typescript and Rust
 - 💬 Ask me about anything [here](https://github.com/AR10Dev/AR10Dev/issues)
 
