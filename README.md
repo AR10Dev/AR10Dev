@@ -1,7 +1,7 @@
 ### Hi there, I'm [Avaab!](https://ar10dev.github.io) 👋
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AR10Dev">
+    <img src="https://komarev.com/ghpvc/?username=AR10Dev&color=yellow">
 </a>
 
 Student and passionate app and game developer.
