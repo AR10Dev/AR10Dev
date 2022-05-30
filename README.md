@@ -4,9 +4,9 @@
     <img src="https://komarev.com/ghpvc/?username=AR10Dev&color=yellow">
 </a>
 
-Student and passionate app and game developer.
+Professor, Student, passionate app and game developer.
 
-- 🔭 I’m currently working on my personal website and my Tauri + Solid App
+- 🔭 I’m currently working on my personal website (Coming soon later this year 👀)
 - 🌱 I’m currently learning Flutter, Typescript and Rust
 - 💬 Ask me about anything [here](https://github.com/AR10Dev/AR10Dev/issues)
 
