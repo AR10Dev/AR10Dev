@@ -1,4 +1,4 @@
-### Hi there, I'm [Avaab!](https://ar10dev.github.io) 👋
+### Hi there, I'm [Avaab!](https://avaabrazzaq.com) 👋
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AR10Dev&color=yellow">
