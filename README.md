@@ -35,4 +35,3 @@ Have a project, idea, or technical problem?
 
 - Website: [avaabrazzaq.com](https://avaabrazzaq.com)
 - GitHub questions: [Open an issue here](https://github.com/AR10Dev/AR10Dev/issues)
-- 
